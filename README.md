@@ -1,12 +1,23 @@
-# React + Vite
+# 🍽️ Food Delivery Website (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive food delivery frontend application built using **React.js** and styled with **Tailwind CSS**. This project includes category filtering, cart management, and smooth UI/UX transitions.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 🔍 Search bar to find dishes
+- 🛒 Add to cart with Redux integration
+- 💰 Dynamic total price calculation (subtotal, delivery fee, tax)
+- ✅ Toast notifications using React-Toastify
+- 🧭 Category-based filtering (Breakfast, Pizza, Soups, etc.)
+- 🎨 Responsive UI with hover effects and pastel café theme
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Built With
+- React.js
+- Tailwind CSS
+- Redux Toolkit
+- React Icons
+- React Toastify
 
-## Expanding the ESLint configuration
+## 📸 Live Preview
+Check out the demo 👉 [Add live link here]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Folder Structure
