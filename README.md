@@ -18,6 +18,12 @@ A modern and responsive food delivery frontend application built using **React.j
 - React Toastify
 
 ## 📸 Live Preview
-Check out the demo 👉 [Add live link here]
+Check out the demo 👉 https://www.linkedin.com/posts/vanigupta1930_reactjs-webdevelopment-tailwindcss-activity-7351189136520728576-HxpQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADefCDoB2Nrda_lhdS5M_9N3sGIXayzFA24
 
 ## 📁 Folder Structure
+src/
+├── Components/
+├── Redux/
+├── Assets/
+├── Context/
+└── App.jsx
